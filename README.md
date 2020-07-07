@@ -1,2 +1,2 @@
-# Arithmetic_C-
-C#算法合集
+# Arithmetic_C Sharp
+C Sharp算法合集
